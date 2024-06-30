@@ -18,7 +18,7 @@ void draw()
     textSize(500);
     textAlign(CENTER, CENTER);
     text(countStr, 250, 250, 500, 500);
-    save(countStr+".png");
+    save("onsenFruits/"+countStr+".png");
     count++;
   }
 }
