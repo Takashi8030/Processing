@@ -1,3 +1,5 @@
+// アート作品風。淡い半透明のボールが画面内を跳ね回る。色の付け方がポイント。
+
 int ballNum = 300;
 float minBSpeed = -3;
 float maxBSpeed = 3;

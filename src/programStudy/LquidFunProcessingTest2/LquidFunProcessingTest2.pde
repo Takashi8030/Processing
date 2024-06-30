@@ -1,3 +1,5 @@
+// 物理シュミレーションライブラリのテスト用コード2。ボールが落ちて跳ねる。
+
 /**
  * 
  * LiquidFunProcessing | 著作権 2017 Thomas Diewald - www.thomasdiewald.com

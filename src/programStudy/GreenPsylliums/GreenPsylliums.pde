@@ -1,3 +1,5 @@
+// アート作品風。緑色の棒が1点を中心にぐるぐる回る。processingArtと一緒。
+
 float radius = 30;
 int strokeNum = 100;
 

@@ -1,3 +1,5 @@
+// 時計のプログラム。Processingでできることの説明に使用。
+
 int cx, cy;             // 時計の中心座標
 float secondsRadius;    // 秒針の長さ
 float minutesRadius;    // 分針の長さ

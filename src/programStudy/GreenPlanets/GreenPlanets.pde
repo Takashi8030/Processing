@@ -1,3 +1,5 @@
+// アート作品風。緑色の丸が同心円の軌道上をぐるぐる回る。
+
 float radius = 30;
 int planetNum = 100;
 

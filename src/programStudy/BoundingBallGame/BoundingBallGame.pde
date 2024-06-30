@@ -1,3 +1,5 @@
+// 画面内を跳ね回るボールにカーソルが当たらないようにするゲーム
+
 int bNum = 100;
 float pSize = 10;
 float minBSpeed = -2;

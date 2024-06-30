@@ -1,3 +1,5 @@
+// ボールが右に移動するだけ。Processingの説明に使用。
+
 float circleX; // 円のx座標
 
 void setup() {

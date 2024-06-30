@@ -1,3 +1,5 @@
+// 物理シュミレーションライブラリのテスト用コード3。ボールがカーリングのように画面内を跳ね回る。
+
 import com.thomasdiewald.liquidfun.java.DwWorld;
 import org.jbox2d.common.Vec2;
 import org.jbox2d.collision.shapes.CircleShape;

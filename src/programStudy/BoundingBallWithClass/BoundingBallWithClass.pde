@@ -1,3 +1,5 @@
+// 画面内を跳ね回るボール。クラスの説明に使った。
+
 int ballNum = 100;
 Ball[] balls = new Ball[ballNum];
 

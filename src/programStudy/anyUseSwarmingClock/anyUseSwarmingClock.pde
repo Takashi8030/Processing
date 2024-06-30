@@ -1,4 +1,4 @@
-// 重すぎて断念
+// swarmingClockの試行錯誤プログラム。重すぎて断念
 
 int ballNum = 300;
 color bgColor = color(0,0,0);

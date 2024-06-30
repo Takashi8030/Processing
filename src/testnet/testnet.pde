@@ -1,3 +1,5 @@
+// NFTのPFPsを作るための下準備のコード。
+
 int count=0;
 
 void setup()
